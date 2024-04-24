@@ -1,16 +1,8 @@
-# clearning_service
+# clearning service
+Aplikasi mobile untuk menanungi tenaga cleaning service untuk mendapatkan orderan secara online
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Nama kelompok 
+1. Teguh Okta Ariyanto / 19220930
+2. ⁠Marcelino Jonathan / 19221296
+3. ⁠Pebrilius Lius / 19221497
+4. ⁠Dea Safira / 19221390 
